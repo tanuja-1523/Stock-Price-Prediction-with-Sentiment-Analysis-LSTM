@@ -1,5 +1,5 @@
-# Stock Price Prediction with Sentiment Analysis & LSTM
-Author-Terni Tanuja Adlakha
+# Stock Price Prediction with Sentiment Analysis (LSTM)
+Author: Tanuja Adlakha
 
 This project predicts future stock prices by combining historical stock data with sentiment analysis of news headlines. The prediction model is based on a Long Short-Term Memory (LSTM) neural network that processes time-series data and sentiment scores to forecast stock prices.
 
