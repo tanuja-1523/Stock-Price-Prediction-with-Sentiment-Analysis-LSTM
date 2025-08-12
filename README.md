@@ -77,8 +77,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Yahoo Finance**: Historical stock data is sourced from Yahoo Finance via the `yfinance` library.
 - **Keras and TensorFlow**: Used for building and training the LSTM model.
 
+This project is based on the original work by [Rhitam Chaudhury](https://github.com/hallowshaw/stock-price-prediction-with-sentiment-analysis-lstm)) and has been modified/customized by [Terni Tanuja Adlakha](https://github.com/tanuja-1523/Stock-Price-Prediction-with-Sentiment-Analysis-LSTM).
+
+
 Feel free to open an issue if you encounter any bugs or have suggestions for improvements. Happy coding!
-
-
-
 
